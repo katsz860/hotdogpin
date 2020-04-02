@@ -26,7 +26,7 @@ STRIPE_SECRET_KEY=<replace-with-your-secret-key>
 
 
 ## Run & test
-1. Open one Terminal window and cd into the right directory (accept-a-card-payment-master_hotdog/server). Run this command:
+1. Open one Terminal window and cd into the right directory (hotdogpin/server). Run this command:
 ```
 npm run katie
 ```
