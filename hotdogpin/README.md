@@ -12,7 +12,8 @@
 stripe listen --forward-to localhost:3232/webhook
 ```
 This will print a webhook signing secret that starts with "whsec_". Make note of this value because we will use it later
-2. Clone this project from [here](GITHUB LINK), if you haven't already
+
+2. Clone this project from [here](https://github.com/katsz860/hotdogpin.git), if you haven't already
 3. Open the .env file (located in accept-a-card-payment-master_hotdog/server)
 4. Find your API keys by going to your [Stripe developer dashboard](https://stripe.com/docs/development#api-keys)
 5. Replace the public and secret keys within the .env file with your API keys from the developer dashboard:
